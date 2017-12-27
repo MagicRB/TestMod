@@ -1,0 +1,4 @@
+item.ingot_copper.name=Copper Ingot
+
+tile.fancy_cobblestone.name=Fancy Cobblestone
+message.testmod.energy_stored=Energy stored: %d

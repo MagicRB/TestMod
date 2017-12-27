@@ -1,0 +1,102 @@
+[21:31:40] [main/INFO]: Setting user: Player142
+[21:31:43] [main/WARN]: Skipping bad option: lastServer:
+[21:31:43] [main/INFO]: LWJGL Version: 2.9.4
+[21:31:46] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Test Mod
+[21:31:49] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[21:31:49] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[21:31:49] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[21:31:49] [Thread-5/INFO]: OpenAL initialized.
+[21:31:50] [Sound Library Loader/INFO]: Sound engine started
+[21:31:53] [main/INFO]: Created: 512x512 textures-atlas
+[21:31:55] [main/WARN]: Skipping bad option: lastServer:
+[21:31:55] [main/INFO]: Narrator library for x64 successfully loaded
+[21:31:56] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[21:32:10] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[21:32:10] [Server thread/INFO]: Generating keypair
+[21:32:10] [Server thread/INFO]: Loaded 488 advancements
+[21:32:10] [Server thread/INFO]: Preparing start region for level 0
+[21:32:11] [Server thread/INFO]: Changing view distance to 12, from 10
+[21:32:12] [Server thread/INFO]: Player142[local:E:2d4b0f27] logged in with entity id 150 at (383.01080014321474, 4.0, 175.91952945780562)
+[21:32:12] [Server thread/INFO]: Player142 joined the game
+[21:32:13] [Server thread/INFO]: Saving and pausing game...
+[21:32:13] [Server thread/INFO]: Saving chunks for level 'Testing world'/overworld
+[21:32:13] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_nether
+[21:32:13] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_end
+[21:32:13] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@4dcf7191[id=7c860150-b37d-33df-82cf-c73f863934ed,name=Player142,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:60) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:57) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153) [guava-21.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:170) [YggdrasilMinecraftSessionService.class:?]
+	at net.minecraft.client.Minecraft.getProfileProperties(Minecraft.java:3172) [Minecraft.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:138) [SkinManager$3.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_151]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_151]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_151]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_151]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+[21:32:15] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:15] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:15] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:15] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:16] [Server thread/INFO]: Saving and pausing game...
+[21:32:16] [Server thread/INFO]: Saving chunks for level 'Testing world'/overworld
+[21:32:16] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_nether
+[21:32:16] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_end
+[21:32:23] [Server thread/INFO]: Saving and pausing game...
+[21:32:23] [Server thread/INFO]: Saving chunks for level 'Testing world'/overworld
+[21:32:23] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_nether
+[21:32:23] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_end
+[21:32:25] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:25] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:25] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:25] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:25] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:25] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:25] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:26] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:26] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:26] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:26] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:26] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:26] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:26] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:26] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:26] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:27] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:27] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:27] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:27] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:27] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:27] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:27] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:27] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:27] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:28] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:28] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:28] [main/INFO]: [CHAT] Energy stored: 0
+[21:32:28] [Server thread/INFO]: Saving and pausing game...
+[21:32:28] [Server thread/INFO]: Saving chunks for level 'Testing world'/overworld
+[21:32:28] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_nether
+[21:32:28] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_end
+[21:32:29] [Server thread/INFO]: Stopping server
+[21:32:29] [Server thread/INFO]: Saving players
+[21:32:29] [Server thread/INFO]: Player142 lost connection: Disconnected
+[21:32:29] [Server thread/INFO]: Player142 left the game
+[21:32:29] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[21:32:29] [Server thread/INFO]: Saving worlds
+[21:32:29] [Server thread/INFO]: Saving chunks for level 'Testing world'/overworld
+[21:32:29] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_nether
+[21:32:29] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_end
+[21:32:30] [main/INFO]: Stopping!
+[21:32:30] [main/INFO]: SoundSystem shutting down...
+[21:32:31] [main/WARN]: Author: Paul Lamb, www.paulscode.com
