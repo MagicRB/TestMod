@@ -1,28 +1,29 @@
-[21:31:40] [main/INFO]: Setting user: Player142
-[21:31:43] [main/WARN]: Skipping bad option: lastServer:
-[21:31:43] [main/INFO]: LWJGL Version: 2.9.4
-[21:31:46] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Test Mod
-[21:31:49] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[21:31:49] [Thread-5/INFO]: Initializing LWJGL OpenAL
-[21:31:49] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[21:31:49] [Thread-5/INFO]: OpenAL initialized.
-[21:31:50] [Sound Library Loader/INFO]: Sound engine started
-[21:31:53] [main/INFO]: Created: 512x512 textures-atlas
-[21:31:55] [main/WARN]: Skipping bad option: lastServer:
-[21:31:55] [main/INFO]: Narrator library for x64 successfully loaded
-[21:31:56] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[21:32:10] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
-[21:32:10] [Server thread/INFO]: Generating keypair
-[21:32:10] [Server thread/INFO]: Loaded 488 advancements
-[21:32:10] [Server thread/INFO]: Preparing start region for level 0
-[21:32:11] [Server thread/INFO]: Changing view distance to 12, from 10
-[21:32:12] [Server thread/INFO]: Player142[local:E:2d4b0f27] logged in with entity id 150 at (383.01080014321474, 4.0, 175.91952945780562)
-[21:32:12] [Server thread/INFO]: Player142 joined the game
-[21:32:13] [Server thread/INFO]: Saving and pausing game...
-[21:32:13] [Server thread/INFO]: Saving chunks for level 'Testing world'/overworld
-[21:32:13] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_nether
-[21:32:13] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_end
-[21:32:13] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@4dcf7191[id=7c860150-b37d-33df-82cf-c73f863934ed,name=Player142,properties={},legacy=false]
+[20:18:43] [main/INFO]: Setting user: Player444
+[20:18:47] [main/WARN]: Skipping bad option: lastServer:
+[20:18:47] [main/INFO]: LWJGL Version: 2.9.4
+[20:18:52] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Test Mod
+[20:18:55] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:18:55] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[20:18:55] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:18:55] [Thread-5/INFO]: OpenAL initialized.
+[20:18:56] [Sound Library Loader/INFO]: Sound engine started
+[20:18:59] [main/INFO]: Created: 512x512 textures-atlas
+[20:19:01] [main/WARN]: Skipping bad option: lastServer:
+[20:19:01] [main/INFO]: Narrator library for x64 successfully loaded
+[20:19:02] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[20:19:06] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[20:19:06] [Server thread/INFO]: Generating keypair
+[20:19:07] [Server thread/INFO]: Loaded 488 advancements
+[20:19:07] [Server thread/INFO]: Preparing start region for level 0
+[20:19:07] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:19:09] [Server thread/INFO]: Player444[local:E:ed80ecc5] logged in with entity id 155 at (322.68364202115214, 4.0, 153.0397647566824)
+[20:19:09] [Server thread/INFO]: Player444 joined the game
+[20:19:10] [Server thread/INFO]: Saving and pausing game...
+[20:19:10] [Server thread/INFO]: Saving chunks for level 'Testing world'/overworld
+[20:19:10] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_nether
+[20:19:10] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_end
+[20:19:10] [main/INFO]: Loaded 37 advancements
+[20:19:10] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@734f4ea5[id=b136c8aa-0654-3583-8db1-8749e12181a1,name=Player444,properties={},legacy=false]
 com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
 	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
@@ -44,59 +45,22 @@ com.mojang.authlib.exceptions.AuthenticationException: The client has sent too m
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_151]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_151]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
-[21:32:15] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:15] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:15] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:15] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:16] [Server thread/INFO]: Saving and pausing game...
-[21:32:16] [Server thread/INFO]: Saving chunks for level 'Testing world'/overworld
-[21:32:16] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_nether
-[21:32:16] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_end
-[21:32:23] [Server thread/INFO]: Saving and pausing game...
-[21:32:23] [Server thread/INFO]: Saving chunks for level 'Testing world'/overworld
-[21:32:23] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_nether
-[21:32:23] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_end
-[21:32:25] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:25] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:25] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:25] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:25] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:25] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:25] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:26] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:26] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:26] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:26] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:26] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:26] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:26] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:26] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:26] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:27] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:27] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:27] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:27] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:27] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:27] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:27] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:27] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:27] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:28] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:28] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:28] [main/INFO]: [CHAT] Energy stored: 0
-[21:32:28] [Server thread/INFO]: Saving and pausing game...
-[21:32:28] [Server thread/INFO]: Saving chunks for level 'Testing world'/overworld
-[21:32:28] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_nether
-[21:32:28] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_end
-[21:32:29] [Server thread/INFO]: Stopping server
-[21:32:29] [Server thread/INFO]: Saving players
-[21:32:29] [Server thread/INFO]: Player142 lost connection: Disconnected
-[21:32:29] [Server thread/INFO]: Player142 left the game
-[21:32:29] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[21:32:29] [Server thread/INFO]: Saving worlds
-[21:32:29] [Server thread/INFO]: Saving chunks for level 'Testing world'/overworld
-[21:32:29] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_nether
-[21:32:29] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_end
-[21:32:30] [main/INFO]: Stopping!
-[21:32:30] [main/INFO]: SoundSystem shutting down...
-[21:32:31] [main/WARN]: Author: Paul Lamb, www.paulscode.com
+[20:19:10] [main/WARN]: Unable to play empty soundEvent: minecraft:entity.small_slime.jump
+[20:19:10] [main/WARN]: Unable to play empty soundEvent: minecraft:entity.small_slime.squish
+[20:19:13] [Server thread/INFO]: Saving and pausing game...
+[20:19:13] [Server thread/INFO]: Saving chunks for level 'Testing world'/overworld
+[20:19:13] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_nether
+[20:19:13] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_end
+[20:19:26] [Server thread/INFO]: Saving and pausing game...
+[20:19:26] [Server thread/INFO]: Saving chunks for level 'Testing world'/overworld
+[20:19:26] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_nether
+[20:19:26] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_end
+[20:19:26] [Server thread/INFO]: Stopping server
+[20:19:26] [Server thread/INFO]: Saving players
+[20:19:26] [Server thread/INFO]: Player444 lost connection: Disconnected
+[20:19:26] [Server thread/INFO]: Player444 left the game
+[20:19:26] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:19:26] [Server thread/INFO]: Saving worlds
+[20:19:26] [Server thread/INFO]: Saving chunks for level 'Testing world'/overworld
+[20:19:26] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_nether
+[20:19:26] [Server thread/INFO]: Saving chunks for level 'Testing world'/the_end

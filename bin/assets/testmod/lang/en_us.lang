@@ -1,4 +1,10 @@
-item.ingot_copper.name=Copper Ingot
+# Items
+# ...
+item.testmod.ingot_copper.name=Copper Ingot
+item.testmod.axe_copper.name=Copper Axe
+item.testmod.hoe_copper.name=Copper Hoe
+item.testmod.pickaxe_copper.name=Copper Pickaxe
+item.testmod.shovel_copper.name=Copper Shovel
+item.testmod.sword_copper.name=Copper Sword
 
-tile.fancy_cobblestone.name=Fancy Cobblestone
-message.testmod.energy_stored=Energy stored: %d
+tile.testmod.fancy_cobblestone.name=Fancy Cobblestone
